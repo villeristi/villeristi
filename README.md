@@ -1,9 +1,8 @@
-<h1 align="center">Ville R. 🖖</h1>
-<h3 align="center">CTO, full-stack Architect & Data-engineer</h3>
+<h1>CTO, full-stack Architect & Data-engineer 🖖</h1>
 
-Currently hacking things @[vaisto](https://vaisto.io) & Plumbing data @[Simplifio](https://simplifio.io)
+Hacking things @[vaisto](https://vaisto.io) & Plumbing data @[Simplifio](https://simplifio.io)
 
-<hr>
+<hr style="margin: 2em 0">
 
 
 [![Gmail Badge](https://img.shields.io/badge/villeristimaki-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:villeristimaki@gmail.com)](mailto:villeristimaki@gmail.com)
