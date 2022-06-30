@@ -1,7 +1,7 @@
 <h1 align="center">Ville R. 🖖</h1>
 <h3 align="center">CTO, full-stack Architect & Data-engineer</h3>
 
-Currently hacking things @ [vaisto](https://vaisto.io) & Plumbing data @[Simplifio](https://simplifio.io)
+Currently hacking things @[vaisto](https://vaisto.io) & Plumbing data @[Simplifio](https://simplifio.io)
 
 <hr>
 
