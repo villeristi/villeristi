@@ -1,6 +1,6 @@
 <h1>CTO, full-stack Architect & Data-engineer 🖖</h1>
 
-Hacking things @[vaisto](https://vaisto.io) & Plumbing data @[Simplifio](https://simplifio.io)
+Hacking things @[Vaisto](https://vaisto.io) & Plumbing data @[Simplifio](https://simplifio.io)
 
 <hr style="margin: 2em 0">
 
